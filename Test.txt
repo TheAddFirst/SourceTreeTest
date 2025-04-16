@@ -10,3 +10,6 @@ stash테스트2
 
 ezpz215STASH
 >>>>>>> test2
+
+
+eeeez
